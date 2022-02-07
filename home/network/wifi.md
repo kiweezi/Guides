@@ -21,4 +21,4 @@ This guide descibes the steps needed to fix the WiFi at home.
 
 ![Alt text](https://github.com/kiweezi/Guides/blob/main/home/network/media/router-power-button.png "Router power button")
 
-*If the WiFi still doesn't work, wait for Rhys to respond.*
+6. If the WiFi still doesn't work, **call Rhys**.
